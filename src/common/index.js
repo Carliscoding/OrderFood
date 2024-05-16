@@ -1,4 +1,4 @@
-const backendDomin = "https://orderfood-backend-two.vercel.app/"
+const backendDomin = "https://eattolive.onrender.app/"
 
 const SummaryApi = {
     signUP : {
