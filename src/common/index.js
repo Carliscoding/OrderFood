@@ -1,4 +1,4 @@
-const backendDomin = "https://eattolive.onrender.app/"
+const backendDomin = "https://eattolive-api.onrender.app/"
 
 const SummaryApi = {
     signUP : {
