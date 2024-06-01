@@ -1,5 +1,6 @@
 // const backendDomin = "https://eattolive-api.onrender.app/"
 const backendDomin = "https://api.eattolive.click/"
+// const backendDomin = "http://localhost:8080"
 
 const SummaryApi = {
     signUP : {
